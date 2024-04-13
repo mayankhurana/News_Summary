@@ -1,7 +1,3 @@
-Certainly! Below is the README file with proper Markdown formatting for the headings using hashtags, which is the format used for headers in GitHub-flavored Markdown:
-
----
-
 # News Article Summarizer
 
 ## Overview
